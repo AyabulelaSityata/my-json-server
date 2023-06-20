@@ -1,0 +1,22 @@
+{
+    "student": [
+        {
+            "id": 1,
+            "firstName": "Ayabulela",
+            "lastName": "Sityata",
+            "age": 26,
+        },
+        {
+            "id": 2,
+            "firstName": "Siyamthanda",
+            "lastName": "Mazokwana",
+            "age": 24,
+        },
+        {
+            "id": 3,
+            "firstName": "Samkelo",
+            "lastName": "Mpokela",
+            "age": 26,
+        }
+    ]
+}
